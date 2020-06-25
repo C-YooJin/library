@@ -1,6 +1,6 @@
 ## library
 collection of my library 
-- kafka consumer (python)
+- kafka
   - kafka_access_specific_offset.py
     - Use if you want to access the data in the broker with a specific offset number.
   - prepro.py
