@@ -7,3 +7,6 @@ collection of my library
     - Convert type bytes to String, String to dictionary
   - kafka_consumer_python.py
     - Kafka consumer PYTHON ver.
+- flume
+  - flume_multiplexing_configuration.conf
+    - flume multiplexing configuration file (kafka, hadoop)
